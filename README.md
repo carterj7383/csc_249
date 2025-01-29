@@ -2,12 +2,43 @@
 **Data Structures & Algorithms (CSC-249-0901)**  
 
 ![Banner](https://via.placeholder.com/1920x400/0a0a0a/ffffff?text=Code+Like+a+Jedi%2C+Debug+Like+a+Mandalorian⚔️)  
-*(Replace with a custom banner later!)*  
+*(Banner Coming Soon)*  
 
 ---
 
 ## 📚 About This Repo  
-This repository houses all assignments, projects, and code for **CSC249: Data Structures & Algorithms**. Expect updates as the semester progresses!  
+This repository houses all assignments, projects, and code for **CSC249: Data Structures & Algorithms**. Expect updates as the semester progresses!
 
-```diff
-+ Current Focus: Linked Lists & Recursion (Spring 2025)
+---
+
+## 🛠️ Technologies & Tools  
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)  
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)  
+![](https://img.shields.io/badge/Tools-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)  
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)  
+
+---
+
+## 🪐 Classmates & Collaborators  
+| Name  | Bio                   | Badge  |  
+|-------|------------------------|--------|  
+| **Laura** | *The Mandalorian Fan* | ![](https://img.shields.io/badge/This_is_the_Way-FF6F61?style=flat&logo=starwars) |  
+
+---
+
+## 👨💻 Author  
+<p align="left">
+  <img src="https://avatars.githubusercontent.com/carterj7383" width="100" style="border-radius: 50%">
+</p>
+
+- **Name**: Joshua Carter  
+- **GitHub**: [@carterj7383](https://github.com/carterj7383)  
+- **Current Project**: `N/A` *(for now!)*  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carterj7383&show_icons=true&theme=dark&hide_border=true)  
+![Trophies](https://github-profile-trophy.vercel.app/?username=carterj7383&theme=onedark&column=4)  
+
+---
+
+> **🚀 Updates Coming Soon!**  
+> *This README will evolve with the course. Stay tuned for code snippets, DSA cheatsheets, and more!*
