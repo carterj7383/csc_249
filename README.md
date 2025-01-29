@@ -40,4 +40,4 @@ This repository houses all assignments, projects, and code for **CSC249: Data St
 ---
 
 > **🚀 Updates Coming Soon!**  
-> *This README will evolve with the course. Stay tuned for code snippets, DSA cheatsheets, and more!*
+> *This README will evolve with the course.
