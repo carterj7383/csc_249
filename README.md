@@ -1,21 +1,13 @@
-# CSC249 Master Repo
-Spring 2025 Data Structure & Algorithms (CSC-249-0901)
+# 🌌 CSC249 Master Repo | Spring 2025  
+**Data Structures & Algorithms (CSC-249-0901)**  
 
-Welcome to my CSC249 repository! 🎉
+![Banner](https://via.placeholder.com/1920x400/0a0a0a/ffffff?text=Code+Like+a+Jedi%2C+Debug+Like+a+Mandalorian⚔️)  
+*(Replace with a custom banner later!)*  
 
-Spring 2025 Data Structure & Algorithms (CSC-249-0901)
+---
 
-## About
-This repository contains all the assignments, projects, and code for my CSC249 course.
+## 📚 About This Repo  
+This repository houses all assignments, projects, and code for **CSC249: Data Structures & Algorithms**. Expect updates as the semester progresses!  
 
-## Added Classmate and Info
-Laura, The Mandalorian Fan.
-
-## Author
-- **Name:** Joshua Carter
-- **GitHub Profile:** [carterj7383](https://github.com/carterj7383)
-
-## Files
-- N/A (for now)
-
-README.md will be updated as the semester progresses! 🚀
+```diff
++ Current Focus: Linked Lists & Recursion (Spring 2025)
