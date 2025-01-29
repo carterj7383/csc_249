@@ -32,7 +32,7 @@ This repository houses all assignments, projects, and code for **CSC249: Data St
 
 - **Name**: Joshua Carter  
 - **GitHub**: [@carterj7383](https://github.com/carterj7383)  
-- **Current Project**: `N/A` *(for now!)*  
+- **Current Project**: `BookSage (capstone)` 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carterj7383&show_icons=true&theme=dark&hide_border=true)  
 ![Trophies](https://github-profile-trophy.vercel.app/?username=carterj7383&theme=onedark&column=4)  
