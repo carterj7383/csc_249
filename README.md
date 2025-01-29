@@ -12,7 +12,13 @@ This repository houses all assignments, projects, and code for **CSC249: Data St
 ---
 
 ## 🛠️ Technologies & Tools 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)  
+## 🛠️ Technologies & Tools
+
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Adobe-informational?style=flat&logo=adobe&logoColor=white&color=ff0000)
+![](https://img.shields.io/badge/IDE-Spyder-informational?style=flat&logo=spyder-ide&logoColor=white&color=0078d7)
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=e34f26)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=1572b6) 
 
 
 
