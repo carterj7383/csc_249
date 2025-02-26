@@ -3,6 +3,8 @@
 #2.L1 - Binary Search of Array
 #Data Structure & Algorithms (CSC-249-0901)
 
+
+
 def linear_search(numbers, key):
     comparisons = 0
    
