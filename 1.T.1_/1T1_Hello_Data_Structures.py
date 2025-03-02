@@ -1,3 +1,8 @@
+#Joshua Carter
+#1.T1 - Hello Data Structures
+#Data Structure & Algorithms (CSC-249-0901)
+
+
 class Queue:
     def __init__(self):
         self.items = []
