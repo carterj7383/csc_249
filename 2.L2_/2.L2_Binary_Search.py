@@ -1,5 +1,4 @@
 #Joshua Carter
-#02/21/2025
 #2.L1 - Binary Search of Array
 #Data Structure & Algorithms (CSC-249-0901)
 
